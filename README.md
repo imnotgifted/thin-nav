@@ -2,6 +2,7 @@
 Stripped down version of original [ATT&CK](https://attack.mitre.org) repo. This is setup in order to facilitate the ease of implementation for an internally hosted git repository.
 
 Layers will need to be placed under [enterprise/assets/]
+
 [enterprise/assets/config.json] will need to be updated for new default layers as needed
 
 ## Notice
